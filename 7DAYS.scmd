@@ -1,0 +1,4 @@
+login anonymous
+force_install_dir ./7daysded
+app_update 294420
+quit
